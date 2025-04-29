@@ -36,7 +36,7 @@ proxies:
     server: quiz.int.vidio.com
     port: 80
     type: vless
-    uuid: 3b2dd6f5-1d10-493b-bfed-2902ce92b8e2
+    uuid: 3b2dd6f5-1d10-493b-bfed-2902ce92b8e1
     alterId: 0
     cipher: auto
     tls: false
