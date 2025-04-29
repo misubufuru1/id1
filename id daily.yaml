@@ -34,12 +34,12 @@ dns:
 proxies:
   - name: 🇮🇩1
     server: quiz.int.vidio.com
-    port: 443
+    port: 80
     type: vless
     uuid: 3b2dd6f5-1d10-493b-bfed-2902ce92b8e1
     alterId: 0
     cipher: auto
-    tls: true
+    tls: false
     skip-cert-verify: true
     servername: id1.misubufurusg.my.id
     network: ws
@@ -50,11 +50,11 @@ proxies:
     udp: true
   - name: 🇸🇬2
     server: quiz.int.vidio.com
-    port: 443
+    port: 80
     type: vless
     uuid: 3b2dd6f5-1d10-493b-bfed-2902ce92b8e1
     cipher: auto
-    tls: true
+    tls: false
     skip-cert-verify: true
     servername: id1.misubufurusg.my.id
     network: ws
