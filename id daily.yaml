@@ -1,15 +1,15 @@
 proxies:
-- name: 🇮🇩1
+- name: muhlis sg1 cf
   server: quiz.int.vidio.com
   type: vless
   port: 443
   uuid: 3b2dd6f5-1d10-493b-bfed-2902ce92b8e1
   tls: true
   skip-cert-verify: true
-  servername: id1.misubufurusg.my.id
+  servername: sg1.misubufurucf.my.id
   network: ws
   ws-opts:
     path: /vless
     headers:
-      Host: id1.misubufurusg.my.id
+      Host: sg1.misubufurucf.my.id
   udp: true
